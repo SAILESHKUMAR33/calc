@@ -255,11 +255,13 @@ body {
 }
 </style>
 ```
-## OUTPUT:
-![image](https://github.com/SAILESHKUMAR33/calc/assets/113497410/8e2f9a88-0433-48d3-aacb-beabc21786de)
 
-## HTML VALIDATOR:
+
+## OUTPUT:
 ![image](https://github.com/SAILESHKUMAR33/calc/assets/113497410/29d4d2af-b022-47d0-bab5-e353b5b1164c)
+
+## HTML VALIDATOR
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
