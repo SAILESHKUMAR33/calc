@@ -262,6 +262,8 @@ body {
 
 ## HTML VALIDATOR
 
+![image](https://github.com/SAILESHKUMAR33/calc/assets/113497410/b728acff-92dd-4d4e-bebf-f9bc1c1944ab)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
